@@ -4,4 +4,4 @@ Lessify
 Samples Applications:
 
 - [Angular](/samples/angular)
-- [React](/samples/react)
+- [React i18next](/samples/react-i18next)
